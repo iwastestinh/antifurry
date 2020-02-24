@@ -9,5 +9,8 @@ async def on_message(message):
   if "furry" in message:
     await message.delete
     
+  elif "Im a furry" in message:
+    member.ban
+    
 #Made by Iwtesting with love
 client.run('Token')

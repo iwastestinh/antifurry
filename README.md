@@ -1,7 +1,6 @@
 # antifurry
 Kills the word "furry" on discord.
 
-Invite the Bot: https://discordapp.com/api/oauth2/authorize?client_id=681506240358383621&permissions=8192&scope=bot
-
 # Selfhosting
-Selfhosting is ofcourse allowed
+1. Fork this repo
+2. Watch a youtube tutorial on how to host python bots on heroku

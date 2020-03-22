@@ -7,7 +7,7 @@ client.remove_command('help')
 @client.event
 async def on_message(message):
   if "furry" in message:
-    await message.delete
+    await message.delete()
     
   elif "Im a furry" in message:
     member.ban

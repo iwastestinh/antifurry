@@ -8,6 +8,6 @@ Kills the word "furry" on discord.
 
 If there are missing files for the selfhost guide then please make an Issue
 
-# Add it to your bot
+# Adding it to your bot
 1. Just copy the if statements in the on_message event to your on_message event
 2. You're done.

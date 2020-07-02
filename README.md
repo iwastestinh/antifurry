@@ -1,5 +1,7 @@
 # antifurry
-Kills the word "furry" on discord.
+Deletes the word furry on your discord server. 
+Warning: If the message contains "Im a furry" the member gets banned.
+Perfect for antifurry communities, *looking at you discord staff*
 
 # Selfhosting
 1. Fork this repo

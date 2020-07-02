@@ -1,16 +1,13 @@
 import discord
-from discord.ext import commands
-
-client = discord.Client
-client.remove_command('help')
+client = discord.Client()
 
 @client.event
 async def on_message(message):
-  if "furry" in message:
+  if "furry" in message.content:
     await message.delete()
-    
-  elif "Im a furry" in message:
-    await member.ban()
-    
+
+  if "Im a furry" in message.content:
+    await message.author.ban()
+
 #Made by Iwtesting with love
-client.run('Token')
+client.run('Paste your token in here')

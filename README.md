@@ -1,7 +1,9 @@
 # antifurry
 Deletes the word furry on your discord server. 
-Warning: If the message contains "Im a furry" the member gets banned.
-Perfect for antifurry communities, *looking at you discord staff*
+
+# How
+If someone says "Im a furry" the message gets deleted and the member gets banned
+If someone says "furry" the message gets deleted
 
 # Selfhosting
 1. Fork this repo
@@ -12,4 +14,4 @@ If there are missing files for the selfhost guide then please make an Issue
 
 # Adding it to your bot
 1. Just copy the if statements in the on_message event to your on_message event
-2. You're done.
+2. Ok

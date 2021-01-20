@@ -1,5 +1,5 @@
 # antifurry
-Deletes the word furry on your discord server. 
+Kills the word furry on your discord server.
 
 # How
 If someone says "Im a furry" the message gets deleted and the member gets banned 

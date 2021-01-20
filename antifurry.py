@@ -9,5 +9,4 @@ async def on_message(message):
   if "Im a furry" in message.content:
     await message.author.ban()
 
-#Made by Iwtesting with love
 client.run('Paste your token in here')
